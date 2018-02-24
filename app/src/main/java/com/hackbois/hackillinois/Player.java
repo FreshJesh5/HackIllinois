@@ -1,4 +1,4 @@
-package com.hackbois.lan_platform;
+package com.hackbois.hackillinois;
 
 /**
  * Created by Fresh Jesh on 2/24/2018.
