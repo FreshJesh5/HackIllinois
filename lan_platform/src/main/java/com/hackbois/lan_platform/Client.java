@@ -5,5 +5,5 @@ package com.hackbois.lan_platform;
  */
 
 public class Client {
-
+//    "hi"
 }
