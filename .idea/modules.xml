@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HackIllinois.iml" filepath="$PROJECT_DIR$/HackIllinois.iml" />
+      <module fileurl="file://C:\Users\user\Desktop\HackIllinois\HackIllinois.iml" filepath="C:\Users\user\Desktop\HackIllinois\HackIllinois.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\user\Desktop\HackIllinois\app\app.iml" filepath="C:\Users\user\Desktop\HackIllinois\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lan_platform/lan_platform.iml" filepath="$PROJECT_DIR$/lan_platform/lan_platform.iml" />
+      <module fileurl="file://C:\Users\user\Desktop\HackIllinois\lan_platform\lan_platform.iml" filepath="C:\Users\user\Desktop\HackIllinois\lan_platform\lan_platform.iml" />
     </modules>
   </component>
 </project>
