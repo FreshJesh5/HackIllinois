@@ -5,4 +5,23 @@ package com.hackbois.lan_platform;
  */
 
 public class Player {
+    private String name_;
+    private Class<T> gamePacket_;
+
+    public Player(String name, Class<T> gamePacket){
+        name_ = name;
+        gamePacket_ = gamePacket;
+    }
+
+    public String getName(){
+        return name_;
+    }
+
+    public Class<T> getGamePacket() {
+        return gamePacket_;
+    }
+    
+    public void updateGamePacket(Class<T> gamePacket){
+        gamePacket_ = gamePacket;
+    }
 }
