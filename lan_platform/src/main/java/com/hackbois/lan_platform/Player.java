@@ -4,7 +4,7 @@ package com.hackbois.lan_platform;
  * Created by Fresh Jesh on 2/24/2018.
  */
 
-public class Player {
+public class Player<T> {
     private String name_;
     private Class<T> gamePacket_;
 
@@ -20,7 +20,7 @@ public class Player {
     public Class<T> getGamePacket() {
         return gamePacket_;
     }
-    
+
     public void updateGamePacket(Class<T> gamePacket){
         gamePacket_ = gamePacket;
     }
